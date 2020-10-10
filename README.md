@@ -1,6 +1,6 @@
 # Инструкция по работе с GIT
 
-![git-logo](./assets/Git-logo.png)
+![git-logo](./assets/Git-logo1.png)
 
 ---
 
