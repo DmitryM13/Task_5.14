@@ -1,0 +1,8 @@
+#Editor derictories and files
+.vscode
+.idea
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
