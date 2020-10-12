@@ -10,4 +10,4 @@ git clone https://github.com/yourname/test
 
 --- 
 
-[< К содержанию](./README.md)
+[< К содержанию](./README.md) | [Далее >](./04_2_add_new_files.md)

@@ -19,4 +19,4 @@ git commit -­m "My first commit"
 
 --- 
 
-[< К содержанию](./README.md)
+[< К содержанию](./README.md) | [Далее >](./04_3_sending_changes.md)

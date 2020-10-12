@@ -19,4 +19,4 @@ git pull
 
 --- 
 
-[< К содержанию](./README.md)
+[< К содержанию](./README.md) | [Далее >](./05_directory.md)
